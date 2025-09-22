@@ -21,7 +21,7 @@ This project is beginner-friendly and easy to run for anyone with Java installed
 ## 🚀 How to Run
 
 ### 1. Requirements
-- [Java 17 or newer](https://adoptium.net/) (or any recent JDK)
+- Java 17 or newer (or any recent JDK)
 - An IDE like [IntelliJ IDEA](https://www.jetbrains.com/idea/) or similar
 
 ---
