@@ -1,6 +1,6 @@
-# Blackjack (Java Console Game)
+# BlackJack (Java Console Game)
 
-A simple console-based Blackjack game built in Java.  
+A simple console-based BlackJack game built in Java.  
 Made as a small personal project to practice object-oriented programming, game logic, and clean code.
 
 This project is beginner-friendly and easy to run for anyone with Java installed.
@@ -8,11 +8,11 @@ This project is beginner-friendly and easy to run for anyone with Java installed
 ---
 
 ## 🎮 Features
-- Classic Blackjack rules
+- Classic BlackJack rules
 - Player vs Dealer
 - Aces count as 11 or 1 (soft hand logic)
 - Dealer draws until reaching 17 (stands on soft 17)
-- Natural Blackjack check at the start
+- Natural BlackJack check at the start
 - Simple and clear console interface
 - Option to play multiple rounds
 
